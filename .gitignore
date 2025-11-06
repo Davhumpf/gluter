@@ -1,0 +1,21 @@
+# 🔒 Secrets
+.env
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+android/local.properties
+**/GeneratedPluginRegistrant.java
+
+# iOS / macOS
+ios/Flutter/Flutter.podspec
+ios/Pods/
+macos/Pods/
+.env 
+.env
